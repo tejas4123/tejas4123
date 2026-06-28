@@ -1,156 +1,231 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Python+Backend+Engineer;Microservices+%7C+Django+%7C+FastAPI;Building+systems+that+scale." alt="Tejashvi Sharma" />
+<!-- BANNER — animated waving header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0d1117&height=200&section=header&text=Tejashvi%20Sharma&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Python%20Backend%20Engineer&descAlignY=58&descSize=20&descColor=8b949e&animation=fadeIn" width="100%" alt="Tejashvi Sharma" />
+
+<!-- ANIMATED ROLE TICKER -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=720&lines=Microservices+%7C+Django+%7C+FastAPI+%7C+PostgreSQL;50K+API+requests%2Fday+in+production;700ms+%E2%86%92+110ms+PostgreSQL+query+tuning;3+hours+%E2%86%92+15+min+Docker%2FKubernetes+CI%2FCD;Building+systems+that+scale+and+stay+up." alt="Typing SVG" />
 
 <br/>
 
-**`tejashvisharma1@gmail.com`** &nbsp;·&nbsp; **`Delhi, India`** &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/tejashvi-sharma23) &nbsp;·&nbsp; [GitHub](https://github.com/tejas4123)
-
-<br/>
-
-![](https://img.shields.io/badge/Python-Backend_Engineer-00b4d8?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/2%2B_Years-Production_Experience-0d1117?style=flat-square&labelColor=0d1117&color=30363d)
-![](https://img.shields.io/badge/Open_To-Full--Time_Roles-f0a500?style=flat-square&labelColor=0d1117)
+<!-- CONTACT BADGES -->
+[![Email](https://img.shields.io/badge/tejashvisharma1%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=00b4d8)](mailto:tejashvisharma1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00b4d8)](https://linkedin.com/in/tejashvi-sharma23)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/tejas4123)
+[![Location](https://img.shields.io/badge/Delhi%2C_India-0d1117?style=flat-square&logo=googlemaps&logoColor=f0a500)]()
+[![Open To Work](https://img.shields.io/badge/Open_To_Work-00b4d8?style=flat-square&labelColor=0d1117)](mailto:tejashvisharma1@gmail.com)
 
 </div>
 
 ---
 
-## At a glance
+## ⚡ At a glance
 
-I build backend systems that handle real production load — microservices, async pipelines, and APIs used by enterprise clients daily. My work lives at the intersection of correctness, performance, and maintainability.
+<div align="center">
 
-```
-50K  API requests/day   →   systems I've owned in production
- 6x  query latency cut  →   700ms PostgreSQL queries → 110ms
-12x  faster releases    →   3 hours CI/CD pipeline → 15 minutes
-75%  test coverage      →   across 8 microservices with pytest
-```
+| ![](https://img.shields.io/badge/50K-API_requests%2Fday-00b4d8?style=for-the-badge&labelColor=0d1117) | ![](https://img.shields.io/badge/6x-Query_Latency_Cut-00b4d8?style=for-the-badge&labelColor=0d1117) | ![](https://img.shields.io/badge/12x-Faster_Releases-f0a500?style=for-the-badge&labelColor=0d1117) | ![](https://img.shields.io/badge/75%25-Test_Coverage-00b4d8?style=for-the-badge&labelColor=0d1117) |
+|:---:|:---:|:---:|:---:|
+| Production scale | 700ms → 110ms | 3 hrs → 15 min | 8 microservices |
+
+</div>
 
 ---
 
-## Tech stack
+## 🛠️ Tech stack
 
-**Languages**
+<div align="center">
 
+<!-- LARGE ICON GRID -->
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,kubernetes,aws,git,github,rabbitmq,linux,vscode,postman&theme=dark&perline=7" alt="Tech stack" />
+
+<br/><br/>
+
+<!-- DETAILED BADGE ROWS -->
+
+**Languages**&nbsp;
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00b4d8)
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=00b4d8)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=f0a500)
 
-**Backend**
-
+**Backend**&nbsp;
 ![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=00b4d8)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=00b4d8)
-![DRF](https://img.shields.io/badge/Django_REST_Framework-0d1117?style=flat-square&logo=django&logoColor=8b949e)
+![DRF](https://img.shields.io/badge/DRF-0d1117?style=flat-square&logo=django&logoColor=8b949e)
 ![Celery](https://img.shields.io/badge/Celery-0d1117?style=flat-square&logo=celery&logoColor=8b949e)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-0d1117?style=flat-square&logo=openapiinitiative&logoColor=00b4d8)
 
-**Databases & Caching**
-
+**Databases & Caching**&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=00b4d8)
 ![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=00b4d8)
 
-**DevOps & Cloud**
-
+**DevOps & Cloud**&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=00b4d8)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=00b4d8)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=f0a500)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-0d1117?style=flat-square&logo=amazonec2&logoColor=f0a500)
+![AWS S3](https://img.shields.io/badge/AWS_S3-0d1117?style=flat-square&logo=amazons3&logoColor=f0a500)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=8b949e)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0d1117?style=flat-square&logo=rabbitmq&logoColor=f0a500)
 
-**System Design**
-
+**System Design**&nbsp;
 ![Microservices](https://img.shields.io/badge/Microservices-0d1117?style=flat-square&logoColor=8b949e)
-![Event--Driven](https://img.shields.io/badge/Event--Driven_Architecture-0d1117?style=flat-square&logoColor=8b949e)
+![Event-Driven](https://img.shields.io/badge/Event--Driven-0d1117?style=flat-square&logoColor=8b949e)
 ![API Gateway](https://img.shields.io/badge/API_Gateway-0d1117?style=flat-square&logoColor=8b949e)
+![Rate Limiting](https://img.shields.io/badge/Rate_Limiting-0d1117?style=flat-square&logoColor=8b949e)
 
-**AI / LLM**
-
+**AI / LLM**&nbsp;
 ![RAG](https://img.shields.io/badge/RAG-0d1117?style=flat-square&logo=openai&logoColor=00b4d8)
 ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logoColor=00b4d8)
 ![Vector DBs](https://img.shields.io/badge/Vector_Databases-0d1117?style=flat-square&logoColor=8b949e)
+![Embeddings](https://img.shields.io/badge/Semantic_Search-0d1117?style=flat-square&logoColor=8b949e)
+
+</div>
 
 ---
 
-## Featured projects
+## 🚀 Featured projects
 
-### [AI-Powered Resume Screening System](https://github.com/tejas4123/resume_screener)
-> *LLM + RAG pipeline that matches CVs to job descriptions by semantic relevance — not keyword overlap*
+<div align="center">
+
+<a href="https://github.com/tejas4123/resume_screener">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tejas4123&repo=resume_screener&theme=github_dark&bg_color=0d1117&border_color=00b4d8&title_color=00b4d8&icon_color=f0a500&text_color=8b949e" alt="Resume Screener Repo Card" />
+</a>
+
+</div>
+
+### 🤖 [AI-Powered Resume Screening System](https://github.com/tejas4123/resume_screener)
+
+> LLM + RAG pipeline that ranks candidates by **semantic relevance** — not keyword matching
 
 ```
-Stack    →   Python · Django · PostgreSQL · Redis · Celery · Docker · AWS S3 · LangChain
-Scale    →   100+ concurrent uploads · sub-5s ingestion per document
-Method   →   Vector embeddings + GIN-indexed PostgreSQL for semantic candidate ranking
-Queue    →   Celery + Redis async pipeline — zero blocking on document processing
+┌─────────────────────────────────────────────────────────────────┐
+│                    SYSTEM ARCHITECTURE                          │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│   PDF Upload ──→ AWS S3 Storage                                 │
+│        │                                                        │
+│        ▼                                                        │
+│   Celery + Redis Queue  ──→  Async document processing          │
+│        │                                                        │
+│        ▼                                                        │
+│   LangChain + Embeddings  ──→  Vector indexing                  │
+│        │                                                        │
+│        ▼                                                        │
+│   PostgreSQL (GIN index)  ──→  Semantic candidate ranking       │
+│        │                                                        │
+│        ▼                                                        │
+│   Django REST API  ──→  Ranked results returned to client       │
+│                                                                 │
+│   Scale: 100+ concurrent uploads · sub-5s ingestion per resume  │
+└─────────────────────────────────────────────────────────────────┘
 ```
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00b4d8)
+![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=00b4d8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=00b4d8)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=00b4d8)
+![AWS S3](https://img.shields.io/badge/AWS_S3-0d1117?style=flat-square&logo=amazons3&logoColor=f0a500)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logoColor=00b4d8)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=00b4d8)
 
 ---
 
-### [E-Commerce Microservices Platform](https://github.com/tejas4123)
-> *5-service distributed system — Auth, Catalog, Orders, Payments, Notifications — each independently deployable*
+### 🛒 [E-Commerce Microservices Platform](https://github.com/tejas4123)
+
+> 5-service distributed system — each independently deployable, load-tested to 300 RPS
 
 ```
-Stack    →   Python · Django · PostgreSQL · Redis · Celery · Docker · Kubernetes
-Scale    →   300 RPS sustained · p99 latency under 200ms under load test
-Arch     →   JWT inter-service auth · API Gateway routing · HPA auto-scaling
-Ops      →   Kubernetes rolling updates · health probes · horizontal pod autoscaling
+┌─────────────────────────────────────────────────────────────────┐
+│                    SYSTEM ARCHITECTURE                          │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│              Client Request                                     │
+│                    │                                            │
+│                    ▼                                            │
+│         ┌─── API Gateway ───┐                                   │
+│         │  routing + rate   │                                   │
+│         │     limiting      │                                   │
+│         └─────────┬─────────┘                                   │
+│                   │                                             │
+│      ┌────────────┼────────────┐────────────┐                   │
+│      ▼            ▼            ▼            ▼            ▼      │
+│   Auth         Catalog       Orders     Payments    Notifs      │
+│  Service       Service       Service    Service     (Celery)    │
+│  (JWT)        (own DB)      (own DB)   (own DB)    (async)     │
+│                                                                 │
+│   Kubernetes: HPA · rolling updates · health probes            │
+│   Scale: 300 RPS · p99 latency < 200ms under load test         │
+└─────────────────────────────────────────────────────────────────┘
 ```
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00b4d8)
+![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=00b4d8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=00b4d8)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=00b4d8)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=00b4d8)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=00b4d8)
 
 ---
 
-## Work history
+## 💼 Work history
 
-**Whitehats Technologies** &nbsp;·&nbsp; Software Developer &nbsp;·&nbsp; `Dec 2023 – Jan 2026`
+**Whitehats Technologies** &nbsp;·&nbsp; `Software Developer` &nbsp;·&nbsp; ![](https://img.shields.io/badge/Dec_2023_–_Jan_2026-30363d?style=flat-square&labelColor=0d1117)
 
-Owned and shipped the backend of an enterprise SaaS platform across 100+ clients. Key work:
+Owned the backend of an enterprise SaaS platform serving 100+ clients at **50K API requests/day**.
 
-- Built 8+ Django/FastAPI microservices covering operations tracking, workflow management, and process automation
-- Designed 30+ REST APIs with JWT auth, RBAC, pagination, and OpenAPI documentation
-- Cut PostgreSQL query time from 700ms → 110ms through indexing; added Redis caching, dropping DB load by 40%
-- Replaced sync report generation with RabbitMQ async queues — eliminated 20–30 second user-blocking waits
-- Migrated latency-sensitive modules to FastAPI — 35% average response time reduction
-- Containerized all services with Docker, deployed on Kubernetes + AWS EC2; GitHub Actions CI/CD cut releases from 3 hours → 15 minutes
-- Maintained 75%+ test coverage with pytest across 8 microservices; conducted code reviews to enforce quality standards
+| What I built | Impact |
+|---|---|
+| 8+ Django/FastAPI microservices | Operations tracking, workflow automation across 100+ enterprise clients |
+| 30+ REST APIs — JWT, RBAC, OpenAPI docs | Cut frontend integration cycles by 20% |
+| PostgreSQL tuning: 700ms → 110ms | Redis caching dropped DB load by 40% |
+| RabbitMQ async queue migration | Eliminated 20–30 second blocking waits per user request |
+| FastAPI migration for hot paths | 35% average response time reduction |
+| Docker + Kubernetes + GitHub Actions | Releases cut from 3 hours → 15 minutes |
+| pytest — 75%+ coverage + code reviews | 30% fewer post-deploy bug reports |
 
 ---
 
-## Currently
+## 📊 GitHub activity
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=tejas4123&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=8b949e&ring_color=00b4d8&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas4123&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=8b949e&langs_count=6" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=tejas4123&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00b4d8&ring=00b4d8&fire=f0a500&currStreakLabel=00b4d8&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tejas4123&bg_color=0d1117&color=00b4d8&line=00b4d8&point=f0a500&area=true&hide_border=true&area_color=00b4d820" width="100%" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🔭 Currently
 
 ```python
 now = {
-    "building"  : "AI-powered resume screening with RAG + LLMs",
-    "exploring" : "Kafka, gRPC, observability tooling (Prometheus + Grafana)",
-    "open_to"   : "Backend engineering roles — Python, Django, FastAPI, microservices",
-    "location"  : "Delhi, India — open to remote",
+    "building"   : "AI resume screener — RAG + LLMs + vector embeddings",
+    "exploring"  : ["Kafka", "gRPC", "Prometheus + Grafana observability"],
+    "open_to"    : "Backend engineering roles — Python · Django · FastAPI",
+    "location"   : "Delhi, India  —  open to remote",
+    "contact"    : "tejashvisharma1@gmail.com",
 }
 ```
 
 ---
 
-## GitHub activity
-
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=tejas4123&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=8b949e&ring_color=00b4d8" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas4123&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=8b949e" />
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0d1117&height=100&section=footer" width="100%" alt="footer wave" />
 
-</div>
+[![Profile views](https://komarev.com/ghpvc/?username=tejas4123&style=flat-square&color=00b4d8&label=profile+views)](https://github.com/tejas4123)
+&nbsp;·&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/tejas4123?style=flat-square&color=00b4d8&labelColor=0d1117&label=followers)](https://github.com/tejas4123)
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=tejas4123&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00b4d8&ring=00b4d8&fire=f0a500&currStreakLabel=00b4d8&sideLabels=8b949e&dates=8b949e" />
-
-</div>
-
----
-
-<div align="center">
-
-**`+91-8368058905`** &nbsp;·&nbsp; **`tejashvisharma1@gmail.com`**
-
-[LinkedIn](https://linkedin.com/in/tejashvi-sharma23) &nbsp;·&nbsp; [GitHub](https://github.com/tejas4123)
-
-<br/>
-
-![](https://komarev.com/ghpvc/?username=tejas4123&style=flat-square&color=00b4d8&label=profile+views)
+*Built with intention. Optimized for scale.*
 
 </div>
