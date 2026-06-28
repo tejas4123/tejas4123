@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0d1117&height=200&section=header&text=Tejashvi%20Sharma&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Python%20Backend%20Engineer&descAlignY=58&descSize=20&descColor=8b949e&animation=fadeIn" width="100%" alt="Tejashvi Sharma" />
 
 <!-- ANIMATED ROLE TICKER -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=720&lines=Microservices+%7C+Django+%7C+FastAPI+%7C+PostgreSQL;50K+API+requests%2Fday+in+production;700ms+%E2%86%92+110ms+PostgreSQL+query+tuning;3+hours+%E2%86%92+15+min+Docker%2FKubernetes+CI%2FCD;Building+systems+that+scale+and+stay+up." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=720&lines=Python+Backend+Engineer;Microservices+%7C+Django+%7C+FastAPI;I+build+things+that+scale.;I+care+about+clean+APIs+and+fast+queries.;Currently+exploring+LLMs+%2B+RAG." alt="Typing SVG" />
 
 <br/>
 
@@ -19,13 +19,14 @@
 
 ---
 
-## ⚡ At a glance
+## 👨‍💻 About me
 
 <div align="center">
 
-| ![](https://img.shields.io/badge/50K-API_requests%2Fday-00b4d8?style=for-the-badge&labelColor=0d1117) | ![](https://img.shields.io/badge/6x-Query_Latency_Cut-00b4d8?style=for-the-badge&labelColor=0d1117) | ![](https://img.shields.io/badge/12x-Faster_Releases-f0a500?style=for-the-badge&labelColor=0d1117) | ![](https://img.shields.io/badge/75%25-Test_Coverage-00b4d8?style=for-the-badge&labelColor=0d1117) |
-|:---:|:---:|:---:|:---:|
-| Production scale | 700ms → 110ms | 3 hrs → 15 min | 8 microservices |
+| | | |
+|:---:|:---:|:---:|
+| ![](https://img.shields.io/badge/📍_Based_in-Delhi%2C_India-0d1117?style=for-the-badge&labelColor=161b22&color=30363d) | ![](https://img.shields.io/badge/⚡_Role-Backend_Engineer-0d1117?style=for-the-badge&labelColor=161b22&color=30363d) | ![](https://img.shields.io/badge/🛠_Stack-Python_·_Django_·_FastAPI-0d1117?style=for-the-badge&labelColor=161b22&color=30363d) |
+| ![](https://img.shields.io/badge/🔭_Building-LLM_+_RAG_Systems-0d1117?style=for-the-badge&labelColor=161b22&color=00b4d8) | ![](https://img.shields.io/badge/🤝_Open_To-Full--Time_Roles-0d1117?style=for-the-badge&labelColor=161b22&color=00b4d8) | ![](https://img.shields.io/badge/📬_Contact-tejashvisharma1%40gmail.com-0d1117?style=for-the-badge&labelColor=161b22&color=30363d) |
 
 </div>
 
