@@ -30,7 +30,7 @@
 <tr>
 <td width="55%">
 
-kotlin
+```kotlin
 data class Vaishali(
   val role     : String = "QA Engineer",
   val location : String = "Ghaziabad, IN",
@@ -49,7 +49,7 @@ data class Vaishali(
   val goal       : String = "ISTQB Foundation Level",
   val motto      : String = "If it's not tested, it's broken"
 )
-
+```
 
 </td>
 <td width="45%" align="center">
@@ -127,7 +127,7 @@ data class Vaishali(
 
 <div align="center">
 
-*Automation and Frameworks*
+**Automation and Frameworks**
 
 ![JUnit](https://img.shields.io/badge/JUnit-%237F77DD.svg?style=for-the-badge&logo=junit5&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-%23AFA9EC.svg?style=for-the-badge&logoColor=white)
@@ -136,19 +136,19 @@ data class Vaishali(
 ![pytest](https://img.shields.io/badge/pytest-%23534AB7.svg?style=for-the-badge&logo=pytest&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-%237F77DD.svg?style=for-the-badge&logo=apachejmeter&logoColor=white)
 
-*Defect Tracking and Databases*
+**Defect Tracking and Databases**
 
 ![JIRA](https://img.shields.io/badge/JIRA-%237F77DD.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23D4537E.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-%23534AB7.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%23AFA9EC.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-*Languages*
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-%23D4537E.svg?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%237F77DD.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-*Learning Next*
+**Learning Next**
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23AFA9EC.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![TestRail](https://img.shields.io/badge/TestRail-%23534AB7.svg?style=for-the-badge&logoColor=white)
@@ -162,7 +162,7 @@ data class Vaishali(
 
 <div align="center">
 
-
+```
   Defect management   ██████████████████████  92%  🟣
   API testing         █████████████████████░  90%  🩷
   JIRA                █████████████████████░  90%  🟣
@@ -175,7 +175,7 @@ data class Vaishali(
   Agile / Scrum       ████████████████░░░░░░  80%  🟣
   Python              ███████████████░░░░░░░  75%  🩷
   Cross-browser       ███████████████░░░░░░░  75%  🩷
-
+```
 
 </div>
 
@@ -190,14 +190,14 @@ data class Vaishali(
 
 <img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="160" alt="testing gif"/>
 
-> Enterprise GRC platform — manual and automation testing
+> *Enterprise GRC platform — manual and automation testing*
 
-&nbsp;&nbsp;&nbsp;🧪 Wrote and ran *200+ test cases* across regression, smoke, GUI, and black-box — *90%+* coverage maintained<br/>
-&nbsp;&nbsp;&nbsp;🤖 Automated API and report validation with *JUnit and Postman, cutting manual effort by **30%*<br/>
-&nbsp;&nbsp;&nbsp;🔗 API tested *10+ endpoints* per sprint — caught data integrity issues before production<br/>
-&nbsp;&nbsp;&nbsp;🐛 Logged *80+ defects* in JIRA with clear repro steps — *95%* resolved within same sprint<br/>
-&nbsp;&nbsp;&nbsp;🗄️ Ran SQL against MSSQL to verify backend vs frontend — caught *15+ data-layer bugs* pre-UAT<br/>
-&nbsp;&nbsp;&nbsp;🏃 Contributed to sprint planning, stand-ups, retros — signed off *3* production releases<br/>
+&nbsp;&nbsp;&nbsp;`🧪` Wrote and ran **200+ test cases** across regression, smoke, GUI, and black-box — **90%+** coverage maintained<br/>
+&nbsp;&nbsp;&nbsp;`🤖` Automated API and report validation with **JUnit and Postman**, cutting manual effort by **30%**<br/>
+&nbsp;&nbsp;&nbsp;`🔗` API tested **10+ endpoints** per sprint — caught data integrity issues before production<br/>
+&nbsp;&nbsp;&nbsp;`🐛` Logged **80+ defects** in JIRA with clear repro steps — **95%** resolved within same sprint<br/>
+&nbsp;&nbsp;&nbsp;`🗄️` Ran SQL against MSSQL to verify backend vs frontend — caught **15+ data-layer bugs** pre-UAT<br/>
+&nbsp;&nbsp;&nbsp;`🏃` Contributed to sprint planning, stand-ups, retros — signed off **3** production releases<br/>
 
 <br clear="right"/>
 </details>
@@ -212,21 +212,21 @@ data class Vaishali(
 
 > ETL pipeline — data ingestion from DB servers, transformation, analytical report generation
 
-
-DB Servers ──▶️ Raw Data Scan ──▶️ Processing ──▶️ Report Generation
+```
+DB Servers ──▶ Raw Data Scan ──▶ Processing ──▶ Report Generation
     │                │               │                  │
 [SQL tests]   [JUnit scripts]  [pytest suites]   [Output validation]
     ↓                ↓               ↓                  ↓
 ✅ Verified     🐛 15+ caught    ✅ Validated       ✅ Accurate
-
+```
 
 | Metric | Result |
 |:-------|:-------|
-| Regression time saved | *~25%* via reusable JUnit / pytest scripts |
+| Regression time saved | **~25%** via reusable JUnit / pytest scripts |
 | Primary framework | JUnit · TestNG · pytest |
 | Database layer | MSSQL |
 
-JUnit TestNG pytest MSSQL ETL Validation Automation Testing
+`JUnit` `TestNG` `pytest` `MSSQL` `ETL Validation` `Automation Testing`
 
 </details>
 
@@ -236,21 +236,21 @@ JUnit TestNG pytest MSSQL ETL Validation Automation Testing
 
 > End-to-end testing of booking and payment flows across browsers
 
-
-Booking Flow ──▶️ Payment Gateway ──▶️ Confirmation ──▶️ DB Record
+```
+Booking Flow ──▶ Payment Gateway ──▶ Confirmation ──▶ DB Record
      │                 │                  │               │
 [Cross-browser]  [Functional test]  [Regression]   [MySQL query]
      ↓                 ↓                  ↓               ↓
 ✅ All browsers    ✅ No leaks       50+ bugs 🐛    ✅ Accurate
-
+```
 
 | Metric | Result |
 |:-------|:-------|
-| Booking efficiency | Improved by *35%* |
-| UI load time | Cut by *40%* |
-| Defects tracked | *50+* with priority tagging in JIRA |
+| Booking efficiency | Improved by **35%** |
+| UI load time | Cut by **40%** |
+| Defects tracked | **50+** with priority tagging in JIRA |
 
-JIRA MySQL MSSQL Manual Testing Cross-browser Testing Regression
+`JIRA` `MySQL` `MSSQL` `Manual Testing` `Cross-browser Testing` `Regression`
 
 </details>
 
@@ -258,14 +258,14 @@ JIRA MySQL MSSQL Manual Testing Cross-browser Testing Regression
 
 ## ✦ Career Timeline
 
-
+```
   2019 ──────────────────────────────────────────────────── now
 
   [BCA]          [MCA]              [QA @ Whitehats]    [Next ✨]
   IMS Univ    ABES College         Enterprise GRC     Open to work
   7.2 CGPA     7.7 CGPA          Feb 2025–Jan 2026   Intermediate QA
   2019–2022    2022–2024         200+ cases · 80+ bugs  roles in IN
-
+```
 
 ---
 
@@ -275,8 +275,8 @@ JIRA MySQL MSSQL Manual Testing Cross-browser Testing Regression
 
 | | Degree | College | Year | CGPA |
 |:---:|:---|:---|:---:|:---:|
-| 🌸 | *MCA* — Master of Computer Applications | ABES Engineering College, Ghaziabad | 2022–2024 | *7.7 / 10* |
-| 🌸 | *BCA* — Bachelor of Computer Applications | IMS University Courses Campus, Ghaziabad | 2019–2022 | *7.2 / 10* |
+| 🌸 | **MCA** — Master of Computer Applications | ABES Engineering College, Ghaziabad | 2022–2024 | **7.7 / 10** |
+| 🌸 | **BCA** — Bachelor of Computer Applications | IMS University Courses Campus, Ghaziabad | 2019–2022 | **7.2 / 10** |
 
 </div>
 
@@ -286,7 +286,7 @@ JIRA MySQL MSSQL Manual Testing Cross-browser Testing Regression
 
 <div align="center">
 
-
+```
   ╭────────────────────────────────────────────────────────╮
   │                                                        │
   │   "Quality is not an act, it is a habit."             │
@@ -297,7 +297,7 @@ JIRA MySQL MSSQL Manual Testing Cross-browser Testing Regression
   │   Shift Left → Test Early → Test Often → Ship Right   │
   │                                                        │
   ╰────────────────────────────────────────────────────────╯
-
+```
 
 </div>
 
@@ -315,7 +315,7 @@ JIRA MySQL MSSQL Manual Testing Cross-browser Testing Regression
 
 <br/>
 
-> 🟢 &nbsp; *Currently available* for intermediate QA Engineer roles in the software industry.
+> 🟢 &nbsp; **Currently available** for intermediate QA Engineer roles in the software industry.
 > I reply within 24 hours and bring good energy to every team. Let's talk! 💜
 
 <br/>
