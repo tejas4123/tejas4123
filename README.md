@@ -320,9 +320,7 @@ Booking Flow ──▶ Payment Gateway ──▶ Confirmation ──▶ DB Recor
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="500" alt="readme quote"/>
-
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C0D1,30:ED93B1,70:AFA9EC,100:EEEDFE&height=120&section=footer" width="100%"/>
 
