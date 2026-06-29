@@ -1,232 +1,288 @@
 <div align="center">
 
-<!-- BANNER — animated waving header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0d1117&height=200&section=header&text=Tejashvi%20Sharma&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Python%20Backend%20Engineer&descAlignY=58&descSize=20&descColor=8b949e&animation=fadeIn" width="100%" alt="Tejashvi Sharma" />
+<!-- Animated banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=200&section=header&text=Vaishali%20Sharma&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=QA%20Engineer%20%E2%80%A2%20Bug%20Hunter%20%E2%80%A2%20Quality%20Advocate&descAlignY=55&descSize=18"/>
 
-<!-- ANIMATED ROLE TICKER -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=720&lines=Python+Backend+Engineer;Microservices+%7C+Django+%7C+FastAPI;I+build+things+that+scale.;I+care+about+clean+APIs+and+fast+queries.;Currently+exploring+LLMs+%2B+RAG." alt="Typing SVG" />
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=600&height=60&lines=Hi+there!+I'm+Vaishali+%F0%9F%8C%B8;QA+Engineer+%7C+Bug+Hunter+%F0%9F%90%9B;I+test+APIs%2C+catch+bugs%2C+ship+quality+%E2%9C%A8;Open+to+work+%F0%9F%92%BC" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<!-- CONTACT BADGES -->
-[![Email](https://img.shields.io/badge/tejashvisharma1%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=00b4d8)](mailto:tejashvisharma1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00b4d8)](https://linkedin.com/in/tejashvi-sharma23)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/tejas4123)
-[![Location](https://img.shields.io/badge/Delhi%2C_India-0d1117?style=flat-square&logo=googlemaps&logoColor=f0a500)]()
-[![Open To Work](https://img.shields.io/badge/Open_To_Work-00b4d8?style=flat-square&labelColor=0d1117)](mailto:tejashvisharma1@gmail.com)
-
-</div>
-
----
-
-## 👨‍💻 About me
-
-<div align="center">
-
-| | | |
-|:---:|:---:|:---:|
-| ![](https://img.shields.io/badge/📍_Based_in-Delhi%2C_India-0d1117?style=for-the-badge&labelColor=161b22&color=30363d) | ![](https://img.shields.io/badge/⚡_Role-Backend_Engineer-0d1117?style=for-the-badge&labelColor=161b22&color=30363d) | ![](https://img.shields.io/badge/🛠_Stack-Python_·_Django_·_FastAPI-0d1117?style=for-the-badge&labelColor=161b22&color=30363d) |
-| ![](https://img.shields.io/badge/🔭_Building-LLM_+_RAG_Systems-0d1117?style=for-the-badge&labelColor=161b22&color=00b4d8) | ![](https://img.shields.io/badge/🤝_Open_To-Full--Time_Roles-0d1117?style=for-the-badge&labelColor=161b22&color=00b4d8) | ![](https://img.shields.io/badge/📬_Contact-tejashvisharma1%40gmail.com-0d1117?style=for-the-badge&labelColor=161b22&color=30363d) |
-
-</div>
-
----
-
-## 🛠️ Tech stack
-
-<div align="center">
-
-<!-- LARGE ICON GRID -->
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,kubernetes,aws,git,github,rabbitmq,linux,vscode,postman&theme=dark&perline=7" alt="Tech stack" />
+<!-- Social badges -->
+<a href="https://www.linkedin.com/in/vaishalisharma01/">
+  <img src="https://img.shields.io/badge/LinkedIn-vaishalisharma01-E879F9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=A855F7"/>
+</a>
+&nbsp;
+<a href="mailto:shvaishali37@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-shvaishali37-F472B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EC4899"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Location-Ghaziabad%2C%20IN-C084FC?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=9333EA"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=vaishalisharma01&label=Profile+Views&color=E879F9&style=for-the-badge"/>
 
 <br/><br/>
 
-<!-- DETAILED BADGE ROWS -->
-
-**Languages**&nbsp;
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00b4d8)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=00b4d8)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=f0a500)
-
-**Backend**&nbsp;
-![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=00b4d8)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=00b4d8)
-![DRF](https://img.shields.io/badge/DRF-0d1117?style=flat-square&logo=django&logoColor=8b949e)
-![Celery](https://img.shields.io/badge/Celery-0d1117?style=flat-square&logo=celery&logoColor=8b949e)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-0d1117?style=flat-square&logo=openapiinitiative&logoColor=00b4d8)
-
-**Databases & Caching**&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=00b4d8)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=00b4d8)
-
-**DevOps & Cloud**&nbsp;
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=00b4d8)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=00b4d8)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-0d1117?style=flat-square&logo=amazonec2&logoColor=f0a500)
-![AWS S3](https://img.shields.io/badge/AWS_S3-0d1117?style=flat-square&logo=amazons3&logoColor=f0a500)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=8b949e)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0d1117?style=flat-square&logo=rabbitmq&logoColor=f0a500)
-
-**System Design**&nbsp;
-![Microservices](https://img.shields.io/badge/Microservices-0d1117?style=flat-square&logoColor=8b949e)
-![Event-Driven](https://img.shields.io/badge/Event--Driven-0d1117?style=flat-square&logoColor=8b949e)
-![API Gateway](https://img.shields.io/badge/API_Gateway-0d1117?style=flat-square&logoColor=8b949e)
-![Rate Limiting](https://img.shields.io/badge/Rate_Limiting-0d1117?style=flat-square&logoColor=8b949e)
-
-**AI / LLM**&nbsp;
-![RAG](https://img.shields.io/badge/RAG-0d1117?style=flat-square&logo=openai&logoColor=00b4d8)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logoColor=00b4d8)
-![Vector DBs](https://img.shields.io/badge/Vector_Databases-0d1117?style=flat-square&logoColor=8b949e)
-![Embeddings](https://img.shields.io/badge/Semantic_Search-0d1117?style=flat-square&logoColor=8b949e)
+<!-- Open to work badge -->
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-QA%20Engineer%20Roles-86EFAC?style=for-the-badge&labelColor=16A34A"/>
 
 </div>
 
 ---
 
-## 🚀 Featured projects
+<div align="center">
+
+## ✨ A little about me ✨
+
+</div>
+
+```javascript
+const vaishali = {
+    role:        "QA Engineer 🐛",
+    location:    "Ghaziabad, Uttar Pradesh 🌸",
+    experience:  "1 year @ Whitehats Technologies",
+    education:   ["MCA — ABES Engineering College (7.7 CGPA) 🎓",
+                  "BCA — IMS University (7.2 CGPA)"],
+
+    testing: {
+        automation:    ["JUnit", "TestNG", "Postman", "Newman", "pytest", "JMeter"],
+        manual:        ["Regression", "Smoke", "Black-box", "GUI", "Cross-browser"],
+        api:           ["REST API validation", "Endpoint testing", "Postman collections"],
+        database:      ["SQL queries", "MSSQL", "MySQL", "Data-layer validation"],
+        performance:   ["JMeter load tests"],
+    },
+
+    methodologies: ["Test Planning", "Defect Management", "Bug Lifecycle",
+                    "Agile / Scrum", "SDLC", "Shift-Left Testing"],
+    tools:         ["JIRA", "Git", "MSSQL", "MySQL"],
+    languages:     ["Python 🐍", "SQL 🗄️"],
+    learning:      ["Jenkins (CI/CD) 🔧", "TestRail 📋", "BrowserStack 🌐"],
+
+    funFact:       "I find bugs before users do 🔍✨",
+    currentGoal:   "ISTQB Foundation certification 🏅",
+};
+```
+
+---
 
 <div align="center">
 
-<a href="https://github.com/tejas4123/resume_screener">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tejas4123&repo=resume_screener&theme=github_dark&bg_color=0d1117&border_color=00b4d8&title_color=00b4d8&icon_color=f0a500&text_color=8b949e" alt="Resume Screener Repo Card" />
+## 🌸 My Impact Numbers 🌸
+
+</div>
+
+<div align="center">
+
+| 🧪 Test Cases Written | 🐛 Bugs Logged | ✅ Resolution Rate | 🚀 Releases Signed Off |
+|:---:|:---:|:---:|:---:|
+| **200+** | **80+** | **95%** | **3** |
+
+| 📊 Test Coverage | 🔗 API Endpoints/Sprint | ⚡ Time Saved | 🛡️ Data Bugs Pre-UAT |
+|:---:|:---:|:---:|:---:|
+| **90%+** | **10+** | **30%** | **15+** |
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ My Tech Stack 🛠️
+
+</div>
+
+<div align="center">
+
+### 🤖 Test Automation
+![JUnit](https://img.shields.io/badge/JUnit-E879F9?style=for-the-badge&logo=junit5&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-C084FC?style=for-the-badge&logo=testng&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-F472B6?style=for-the-badge&logo=postman&logoColor=white)
+![Newman](https://img.shields.io/badge/Newman-F9A8D4?style=for-the-badge&logo=postman&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-A78BFA?style=for-the-badge&logo=pytest&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-E879F9?style=for-the-badge&logo=apachejmeter&logoColor=white)
+
+### 🐛 Bug Tracking & Tools
+![JIRA](https://img.shields.io/badge/JIRA-C084FC?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F472B6?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-A78BFA?style=for-the-badge&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-E879F9?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-C084FC?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-F472B6?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🌱 Currently Learning
+![Jenkins](https://img.shields.io/badge/Jenkins-A78BFA?style=for-the-badge&logo=jenkins&logoColor=white)
+![TestRail](https://img.shields.io/badge/TestRail-E879F9?style=for-the-badge&logo=testrail&logoColor=white)
+![BrowserStack](https://img.shields.io/badge/BrowserStack-F472B6?style=for-the-badge&logo=browserstack&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 💼 Work Experience 💼
+
+</div>
+
+<details open>
+<summary><h3>🏢 Quality Analyst — Whitehats Technologies &nbsp; <code>Feb 2025 – Jan 2026</code></h3></summary>
+
+<br/>
+
+> 🌸 *Enterprise GRC platform | Manual + Automation Testing*
+
+- 🧪 Wrote and ran **200+ test cases** across regression, smoke, GUI, and black-box scenarios — kept test coverage above **90%** across the release cycle
+- 🤖 Automated API and report validation tests using **JUnit and Postman**, cutting manual test execution time by **~30%**
+- 🔗 Did **API testing with Postman** across **10+ endpoints** each sprint, catching data integrity issues before they hit production
+- 🐛 Logged **80+ defects in JIRA** with clear reproduction steps and priority tags — got **95%** resolved within the same sprint
+- 🗄️ Ran **SQL queries against MSSQL** to verify backend data matched frontend reports, caught **15+ data-layer bugs** before UAT
+- 🏃 Contributed to sprint planning, stand-ups, and retrospectives across **3 release cycles**; owned release readiness sign-off before each deployment
+
+</details>
+
+---
+
+<div align="center">
+
+## 🌺 Featured Projects 🌺
+
+</div>
+
+<details open>
+<summary><h3>🗄️ Data Processing and Reporting Tool</h3></summary>
+
+<br/>
+
+> An ETL pipeline that pulled data from DB servers, processed raw records, and generated analytical reports.
+
+**What I did:**
+- 🔍 Found defects early enough that the team could fix them before data hit downstream reports
+- 📝 Wrote **reusable JUnit / pytest scripts** to validate data transformation logic
+- ⚡ Trimmed regression test time by **~25%** by reusing test scripts across builds
+
+**Tools:** &nbsp;
+![JUnit](https://img.shields.io/badge/JUnit-E879F9?style=flat-square&logo=junit5&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-C084FC?style=flat-square)
+![pytest](https://img.shields.io/badge/pytest-A78BFA?style=flat-square&logo=pytest&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-F472B6?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+</details>
+
+<details open>
+<summary><h3>🏨 Stay Portal — Booking and Payment Platform</h3></summary>
+
+<br/>
+
+> End-to-end testing of booking and payment workflows across multiple browsers.
+
+**What I did:**
+- 🌐 Tested booking and payment flows — **functional, regression, and cross-browser**
+- 📈 Helped improve booking efficiency by **35%** and cut interface load time by **40%**
+- 🐛 Tracked **50+ defects** in JIRA with priority tagging
+- 🗄️ Validated payment data accuracy using **MySQL queries** to catch backend issues
+
+**Tools:** &nbsp;
+![JIRA](https://img.shields.io/badge/JIRA-E879F9?style=flat-square&logo=jira&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-C084FC?style=flat-square&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-A78BFA?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Cross-browser](https://img.shields.io/badge/Cross--browser-F472B6?style=flat-square)
+
+</details>
+
+---
+
+<div align="center">
+
+## 🎓 Education 🎓
+
+</div>
+
+<div align="center">
+
+| 🌸 Degree | 🏫 College | 📅 Year | 📊 CGPA |
+|:---|:---|:---:|:---:|
+| **MCA** — Master of Computer Applications | ABES Engineering College, Ghaziabad | 2022–2024 | **7.7 / 10** |
+| **BCA** — Bachelor of Computer Applications | IMS University Courses Campus, Ghaziabad | 2019–2022 | **7.2 / 10** |
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 Testing Methodology at a Glance 📊
+
+</div>
+
+```
+🧪 My QA Approach
+
+  Requirements Review ──▶ Test Planning ──▶ Test Case Design
+         │                                         │
+         ▼                                         ▼
+   Risk Analysis              Manual Testing ◀──── API Testing
+         │                         │                    │
+         ▼                         ▼                    ▼
+   Sprint Planning         Automation Testing     DB Validation
+         │                         │                    │
+         └──────────────▶  Defect Logging (JIRA) ◀──────┘
+                                   │
+                                   ▼
+                          Regression Testing
+                                   │
+                                   ▼
+                         Release Sign-Off 🚀
+```
+
+---
+
+<div align="center">
+
+## 🌸 Skill Proficiency 🌸
+
+</div>
+
+```
+API Testing          ████████████████████ 90%  🔗
+Defect Management    ███████████████████░ 92%  🐛
+Regression Testing   █████████████████░░░ 86%  🔄
+Test Planning        ████████████████░░░░ 84%  📋
+Postman / Newman     █████████████████░░░ 88%  📮
+JUnit                ████████████████░░░░ 82%  ☕
+SDLC                 █████████████████░░░ 85%  🔁
+Agile / Scrum        ████████████████░░░░ 80%  🏃
+SQL / MSSQL          ████████████████░░░░ 82%  🗄️
+Python               ███████████████░░░░░ 75%  🐍
+```
+
+---
+
+<div align="center">
+
+## 📫 Let's Connect! 📫
+
+<br/>
+
+<a href="https://www.linkedin.com/in/vaishalisharma01/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-E879F9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=A855F7"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:shvaishali37@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Send%20a%20message-F472B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EC4899"/>
 </a>
 
-</div>
+<br/><br/>
 
-### 🤖 [AI-Powered Resume Screening System](https://github.com/tejas4123/resume_screener)
-
-> LLM + RAG pipeline that ranks candidates by **semantic relevance** — not keyword matching
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    SYSTEM ARCHITECTURE                          │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│   PDF Upload ──→ AWS S3 Storage                                 │
-│        │                                                        │
-│        ▼                                                        │
-│   Celery + Redis Queue  ──→  Async document processing          │
-│        │                                                        │
-│        ▼                                                        │
-│   LangChain + Embeddings  ──→  Vector indexing                  │
-│        │                                                        │
-│        ▼                                                        │
-│   PostgreSQL (GIN index)  ──→  Semantic candidate ranking       │
-│        │                                                        │
-│        ▼                                                        │
-│   Django REST API  ──→  Ranked results returned to client       │
-│                                                                 │
-│   Scale: 100+ concurrent uploads · sub-5s ingestion per resume  │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00b4d8)
-![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=00b4d8)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=00b4d8)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=00b4d8)
-![AWS S3](https://img.shields.io/badge/AWS_S3-0d1117?style=flat-square&logo=amazons3&logoColor=f0a500)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logoColor=00b4d8)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=00b4d8)
-
----
-
-### 🛒 [E-Commerce Microservices Platform](https://github.com/tejas4123)
-
-> 5-service distributed system — each independently deployable, load-tested to 300 RPS
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    SYSTEM ARCHITECTURE                          │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│              Client Request                                     │
-│                    │                                            │
-│                    ▼                                            │
-│         ┌─── API Gateway ───┐                                   │
-│         │  routing + rate   │                                   │
-│         │     limiting      │                                   │
-│         └─────────┬─────────┘                                   │
-│                   │                                             │
-│      ┌────────────┼────────────┐────────────┐                   │
-│      ▼            ▼            ▼            ▼            ▼      │
-│   Auth         Catalog       Orders     Payments    Notifs      │
-│  Service       Service       Service    Service     (Celery)    │
-│  (JWT)        (own DB)      (own DB)   (own DB)    (async)     │
-│                                                                 │
-│   Kubernetes: HPA · rolling updates · health probes            │
-│   Scale: 300 RPS · p99 latency < 200ms under load test         │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00b4d8)
-![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=00b4d8)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=00b4d8)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=00b4d8)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=00b4d8)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=00b4d8)
-
----
-
-## 💼 Work history
-
-**Whitehats Technologies** &nbsp;·&nbsp; `Software Developer` &nbsp;·&nbsp; ![](https://img.shields.io/badge/Dec_2023_–_Jan_2026-30363d?style=flat-square&labelColor=0d1117)
-
-Owned the backend of an enterprise SaaS platform serving 100+ clients at **50K API requests/day**.
-
-| What I built | Impact |
-|---|---|
-| 8+ Django/FastAPI microservices | Operations tracking, workflow automation across 100+ enterprise clients |
-| 30+ REST APIs — JWT, RBAC, OpenAPI docs | Cut frontend integration cycles by 20% |
-| PostgreSQL tuning: 700ms → 110ms | Redis caching dropped DB load by 40% |
-| RabbitMQ async queue migration | Eliminated 20–30 second blocking waits per user request |
-| FastAPI migration for hot paths | 35% average response time reduction |
-| Docker + Kubernetes + GitHub Actions | Releases cut from 3 hours → 15 minutes |
-| pytest — 75%+ coverage + code reviews | 30% fewer post-deploy bug reports |
-
----
-
-## 📊 GitHub activity
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=tejas4123&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=8b949e&ring_color=00b4d8&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas4123&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=8b949e&langs_count=6" alt="Top Languages" />
+*💌 I'm currently open to intermediate QA Engineer roles in the software industry.*
+*If you're hiring or want to talk testing — reach out, I reply fast! 🌸*
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=tejas4123&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00b4d8&ring=00b4d8&fire=f0a500&currStreakLabel=00b4d8&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tejas4123&bg_color=0d1117&color=00b4d8&line=00b4d8&point=f0a500&area=true&hide_border=true&area_color=00b4d820" width="100%" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🔭 Currently
-
-```python
-now = {
-    "building"   : "AI resume screener — RAG + LLMs + vector embeddings",
-    "exploring"  : ["Kafka", "gRPC", "Prometheus + Grafana observability"],
-    "open_to"    : "Backend engineering roles — Python · Django · FastAPI",
-    "location"   : "Delhi, India  —  open to remote",
-    "contact"    : "tejashvisharma1@gmail.com",
-}
-```
-
----
-
-<div align="center">
-
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0d1117&height=100&section=footer" width="100%" alt="footer wave" />
-
-[![Profile views](https://komarev.com/ghpvc/?username=tejas4123&style=flat-square&color=00b4d8&label=profile+views)](https://github.com/tejas4123)
-&nbsp;·&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/tejas4123?style=flat-square&color=00b4d8&labelColor=0d1117&label=followers)](https://github.com/tejas4123)
-
-*Built with intention. Optimized for scale.*
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=120&section=footer"/>
 
 </div>
