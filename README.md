@@ -264,8 +264,8 @@ Booking Flow ──▶️ Payment Gateway ──▶️ Confirmation ──▶️
 
   [BCA]          [MCA]           [QA @ Whitehats]          
   IMS Univ    ABES College        Enterprise GRC           
-  7.2 CGPA     7.7 CGPA          Feb 2025–Jan 2026        
-  2019–2022    2022–2024         Manual QA • API • SQL      
+  7.2 CGPA     7.7 CGPA             Feb 2025       
+  2019–2022    2022–2024        Manual QA • API • SQL      
 ```
 
 ---
